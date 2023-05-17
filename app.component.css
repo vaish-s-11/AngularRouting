@@ -1,0 +1,15 @@
+.nav-link {
+     margin-right: 10px;
+    text-decoration: none; 
+    top:20px;
+    display: inline;
+    
+}
+#navbarText{
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 20px;
+  }
+ 
+  
